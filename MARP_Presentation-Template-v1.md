@@ -33,7 +33,8 @@ style: |
 
     footer {
         position: absolute;
-        font-size: 0.6em;
+        font-size: 0.5em;
+        font-weight: 500;
         left: 604px;
         top: 0px;
         width: 100%;
@@ -42,7 +43,8 @@ style: |
         vertikal-align: bottom;
     }
     section::after {
-        font-size: 0.6em;
+        font-size: 0.5em;
+        font-weight: 500;
     }
 ---
 <style scoped>
